@@ -1,5 +1,3 @@
-<img style="margin-top: 40px;" align="right" width="300px" src="https://camo.githubusercontent.com/1d04ccbe1e520c0758bff2af297aa8b61962ac6a5a57bae0ce1f3d90593fceb5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c324a6877646e724776666e6f58727a692f67697068792e676966">
-
 
 #### Me chamo Eduardo, sou estudante de Sistemas de Informação e moro em Belo Horizonte!  
 
