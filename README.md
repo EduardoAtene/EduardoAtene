@@ -1,12 +1,49 @@
+## 👋 Olá, sou Eduardo Atene  
+Sou um desenvolvedor autodidata apaixonado por aprender e explorar novas tecnologias. Minha jornada na programação me levou a explorar diversas áreas, como **desenvolvimento web**. Sou formado em **Sistemas de Informação pela PUC Minas**, mas acredito que o aprendizado contínuo é o que realmente me impulsiona.
 
-#### Me chamo Eduardo, sou estudante de Sistemas de Informação e moro em Belo Horizonte!  
+💻 Gosto de compartilhar meus **projetos** e **descobertas** com a comunidade, acreditando que o crescimento vem da troca de experiências.
 
-- 💻 Desenvolvedor de software
-- :mortar_board: Sistemas de Informação
+---
 
-<div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAtene&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoAtene&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-</div><br>	
+## 👋 Hi, I’m Eduardo Atene  
+I’m a self-taught developer passionate about learning and exploring new technologies. My journey has led me through fields like **web development**. I graduated in **Information Systems from PUC Minas**, but continuous learning is what drives me forward.
 
-🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/eduardo-atene/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+💻 I love sharing my **projects** and **discoveries**, believing that growth comes from exchanging experiences.
+
+<br>
+
+<div>
+  <a href="https://github.com/EduardoAtene">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoAtene&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAtene&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>  
+  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="-PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="-Laravel" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="-Golang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="-SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+   ## Contato/Contact
+<div>
+  <a href="mailto:eduardoatenesilvamarinha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-atene/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
+## Minhas Habilidades
+- **Golang**: Estou me aprofundando nesta linguagem poderosa e segura, aproveitando suas vantagens para criar projetos eficientes e de alto desempenho.
+- **PHP**: Com experiência em desenvolvimento Full Stack, criei e mantive diversas aplicações web, sempre buscando melhorar a segurança e a performance.
+- **Python**: Utilizei essas tecnologias em projetos de scraping e processamento de dados, aplicando boas práticas de automação e eficiência.
+- **AWS**: Tenho experiência em provisionamento e automação de infraestrutura, garantindo ambientes estáveis e escaláveis para aplicações.
+## My Skills
+- **Golang**: I am delving into this powerful and safe language, leveraging its advantages to create efficient and high-performance projects.
+- **PHP and Laravel**: With experience in Full Stack development, I have created and maintained various web applications, always seeking to improve security and performance.
+- **Python**: I used these technologies in scraping and data processing projects, applying good practices of automation and efficiency.
+- **AWS**: I have experience in provisioning and automating infrastructure, ensuring stable and scalable environments for applications.
+
+
+
