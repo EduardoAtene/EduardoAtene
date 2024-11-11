@@ -44,11 +44,16 @@ I’m a self-taught developer passionate about learning and exploring new techno
 - **PHP**: Com experiência em desenvolvimento Full Stack, criei e mantive diversas aplicações web, sempre buscando melhorar a segurança e a performance.
 - **Python**: Utilizei essas tecnologias em projetos de scraping e processamento de dados, aplicando boas práticas de automação e eficiência.
 - **AWS**: Tenho experiência em provisionamento e automação de infraestrutura, garantindo ambientes estáveis e escaláveis para aplicações.
+- **React**: Com foco em desenvolvimento front-end, utilizo o React para criar interfaces de usuário dinâmicas e responsivas.
+- **Desenvolvimento Ágil**: Adoto práticas ágeis para garantir entregas rápidas, com alta qualidade e alinhamento contínuo com as necessidades do cliente.
+
 ## My Skills
 - **Golang**: I am delving into this powerful and safe language, leveraging its advantages to create efficient and high-performance projects.
 - **PHP and Laravel**: With experience in Full Stack development, I have created and maintained various web applications, always seeking to improve security and performance.
 - **Python**: I used these technologies in scraping and data processing projects, applying good practices of automation and efficiency.
 - **AWS**: I have experience in provisioning and automating infrastructure, ensuring stable and scalable environments for applications.
+- **React**: With a focus on front-end development, I use React to build dynamic and responsive user interfaces.
+- **Agile Development**: I adopt agile practices to ensure fast deliveries, with high quality and continuous alignment with client needs.
 
 
 
