@@ -1,11 +1,11 @@
-## 👋 Olá, sou Eduardo Atene  
+## 👋 Hey hey, sou Eduardo Atene  
 Sou um desenvolvedor autodidata apaixonado por aprender e explorar novas tecnologias. Minha jornada na programação me levou a explorar diversas áreas, como **desenvolvimento web**. Sou formado em **Sistemas de Informação pela PUC Minas**, mas acredito que o aprendizado contínuo é o que realmente me impulsiona.
 
 💻 Gosto de compartilhar meus **projetos** e **descobertas** com a comunidade, acreditando que o crescimento vem da troca de experiências.
 
 ---
 
-## 👋 Hi, I’m Eduardo Atene  
+## 👋 Hey hey, I’m Eduardo Atene  
 I’m a self-taught developer passionate about learning and exploring new technologies. My journey has led me through fields like **web development**. I graduated in **Information Systems from PUC Minas**, but continuous learning is what drives me forward.
 
 💻 I love sharing my **projects** and **discoveries**, believing that growth comes from exchanging experiences.
