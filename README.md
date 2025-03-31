@@ -55,7 +55,6 @@ I’m a self-taught developer passionate about learning and exploring new techno
 - **React**: With a focus on front-end development, I use React to build dynamic and responsive user interfaces.
 - **Agile Development**: I adopt agile practices to ensure fast deliveries, with high quality and continuous alignment with client needs.
 
-h
 
 ### Profile views:
 ![](https://komarev.com/ghpvc/?username=EduardoAtene)
